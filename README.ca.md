@@ -11,6 +11,8 @@ Disseny paramètric generat amb codi Python/Blender, amb STL i llits llestos per
 
 <p align="center"><img src="docs/images/v4_duo.jpg" alt="BolaBol d'una moneda (menta) i de dues (blau cel)" width="720"></p>
 
+<p align="center"><img src="docs/images/explode.gif" alt="Animació del despeç" width="400"></p>
+
 ## Característiques
 
 - Càpsula de **50 × 54 mm**, en dues peces, també imprimible; n'hi caben **10**.

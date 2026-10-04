@@ -11,6 +11,8 @@ Diseño paramétrico generado con código Python/Blender, con STL y camas listas
 
 <p align="center"><img src="docs/images/v4_duo.jpg" alt="BolaBol de una moneda (menta) y de dos (azul cielo)" width="720"></p>
 
+<p align="center"><img src="docs/images/explode.gif" alt="Animación del despiece" width="400"></p>
+
 ## Características
 
 - Cápsula de **50 × 54 mm**, en dos piezas, también imprimible; caben **10**.
